@@ -1,5 +1,7 @@
+------
 #Training system M3S1 riwi.
-this simple interactive Javascript program asks the user to their namme and age from "prompt()".
+
+##this simple interactive Javascript program asks the user to their namme and age from "prompt()".
 
 -----
 
